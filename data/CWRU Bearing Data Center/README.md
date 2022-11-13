@@ -74,7 +74,7 @@ Click on a link below to continue:
 (All dimensions in inches)
 
 ### 2. Bearing Information
-**Drive end bearing**: 6205-2RS JEM SKF, deep groove ball bearing
+a. **Drive end bearing**: 6205-2RS JEM SKF, deep groove ball bearing
 
 **Size**: (inches)
 | Inside Diameter | Outside Diameter | Thickness | Ball Diameter | Pitch Diameter |
@@ -86,8 +86,8 @@ Click on a link below to continue:
 |:----------:|:----------:|:----------:|:---------------:|
 |   5.4152   |   3.5848   |  0.39828   |     4.7135      |
 
-***
-**Fan end bearing**: 6203-2RS JEM SKF, deep groove ball bearing
+
+b. **Fan end bearing**: 6203-2RS JEM SKF, deep groove ball bearing
 
 **Size**: (inches)
 | Inside Diameter | Outside Diameter | Thickness | Ball Diameter | Pitch Diameter |
