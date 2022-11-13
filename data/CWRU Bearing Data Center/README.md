@@ -46,7 +46,7 @@ Click on a link below to continue:
 
 ## Appendix
 
-### Fault Specifications
+### 1. Fault Specifications
 
 | Bearing   | Fault Location | Diameter | Depth | Bearing Manufacturer |
 |:-----------:|:----------------:|:----------:|:-------:|:----------------------:|
@@ -73,7 +73,7 @@ Click on a link below to continue:
 | Fan End   | Ball           | 0.021    | 0.011 | SKF                  |
 (All dimensions in inches)
 
-### Bearing Information
+### 2. Bearing Information
 **Drive end bearing**: 6205-2RS JEM SKF, deep groove ball bearing
 
 **Size**: (inches)
@@ -99,7 +99,7 @@ Click on a link below to continue:
 |:----------:|:----------:|:----------:|:---------------:|
 |   4.9469   |   3.0530   |   0.3817   |     3.9874      |
 
-### Data Exist or Not
+### 3. Data Exist or Not
 
   <table width="1503" border="0" cellpadding="0" cellspacing="0" style="width:1127.25pt;border-collapse:collapse;table-layout:fixed;">
    <colgroup><col width="142" class="xl65" style="mso-width-source:userset;mso-width-alt:4038;">
