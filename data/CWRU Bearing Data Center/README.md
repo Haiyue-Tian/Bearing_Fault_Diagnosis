@@ -74,30 +74,30 @@ Click on a link below to continue:
 (All dimensions in inches)
 
 ### 2. Bearing Information
-a. **Drive end bearing**: 6205-2RS JEM SKF, deep groove ball bearing
+* **Drive end bearing**: 6205-2RS JEM SKF, deep groove ball bearing
 
-**Size**: (inches)
-| Inside Diameter | Outside Diameter | Thickness | Ball Diameter | Pitch Diameter |
-|:---------------:|:----------------:|:---------:|:-------------:|:--------------:|
-|     0.9843      |      2.0472      |  0.5906   |    0.3126     |     1.537      |
+  **Size**: (inches)
+  | Inside Diameter | Outside Diameter | Thickness | Ball Diameter | Pitch Diameter |
+  |:---------------:|:----------------:|:---------:|:-------------:|:--------------:|
+  |     0.9843      |      2.0472      |  0.5906   |    0.3126     |     1.537      |
 
-**Defect frequencies**: (multiple of running speed **in Hz**)
-| Inner Ring | Outer Ring | Cage Train | Rolling Element |
-|:----------:|:----------:|:----------:|:---------------:|
-|   5.4152   |   3.5848   |  0.39828   |     4.7135      |
+  **Defect frequencies**: (multiple of running speed **in Hz**)
+  | Inner Ring | Outer Ring | Cage Train | Rolling Element |
+  |:----------:|:----------:|:----------:|:---------------:|
+  |   5.4152   |   3.5848   |  0.39828   |     4.7135      |
 
 
-b. **Fan end bearing**: 6203-2RS JEM SKF, deep groove ball bearing
+* **Fan end bearing**: 6203-2RS JEM SKF, deep groove ball bearing
 
-**Size**: (inches)
-| Inside Diameter | Outside Diameter | Thickness | Ball Diameter | Pitch Diameter |
-|:---------------:|:----------------:|:---------:|:-------------:|:--------------:|
-|     0.6693      |      1.5748      |  0.4724   |    0.2656     |     1.122      |
+  **Size**: (inches)
+  | Inside Diameter | Outside Diameter | Thickness | Ball Diameter | Pitch Diameter |
+  |:---------------:|:----------------:|:---------:|:-------------:|:--------------:|
+  |     0.6693      |      1.5748      |  0.4724   |    0.2656     |     1.122      |
 
-**Defect frequencies**: (multiple of running speed **in Hz**)
-| Inner Ring | Outer Ring | Cage Train | Rolling Element |
-|:----------:|:----------:|:----------:|:---------------:|
-|   4.9469   |   3.0530   |   0.3817   |     3.9874      |
+  **Defect frequencies**: (multiple of running speed **in Hz**)
+  | Inner Ring | Outer Ring | Cage Train | Rolling Element |
+  |:----------:|:----------:|:----------:|:---------------:|
+  |   4.9469   |   3.0530   |   0.3817   |     3.9874      |
 
 ### 3. Data Exist or Not
 
